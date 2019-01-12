@@ -48,5 +48,3 @@ Configuration
 URL shortening is done by bit.ly and tinyurl.com. If you want to use bit.ly please add bit.ly username and API Key in the “Accounts” tab and save details. 
 For more information on generating bit.ly credentials please refer http://support.bitly.com/knowledgebase/articles/76785-how-do-i-find-my-api-key- 
 Scheduling Tweets and How to’s
-For information on adding RSS Feeds and troubleshooting please refer to http://satyamtechnologies.net/blog/ 
-
